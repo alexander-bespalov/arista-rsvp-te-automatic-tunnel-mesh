@@ -1,4 +1,4 @@
-# RSVP-TE Automatic Tunnel Mesh
+# Arista RSVP-TE Automatic Tunnel Mesh
 This application is configuring RSVP-TE tunnels towards egress routers (/32 routes from OSPF or ISIS routing table). Practically it allows to automate RSVP-TE full mesh provisioning in MPLS network.
 
 ## Notes
